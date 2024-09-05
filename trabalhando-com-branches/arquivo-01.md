@@ -1,3 +1,4 @@
+VSCODE É UMA MERDA
 NÚMERO o.1 
 
 Gerenciador de Drivers Gratuito. 
